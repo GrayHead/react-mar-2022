@@ -1,8 +1,12 @@
-export  function App() {
-	return (
-		<div>
-		App
+// import Posts from "./components/posts/Posts";
+import {Posts} from "./components";
 
-		</div>
-	);
+export default function App() {
+    return (<div>
+        <Posts/>
+
+
+    </div>);
 }
+
+
