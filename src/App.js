@@ -1,8 +1,11 @@
-export  function App() {
-	return (
-		<div>
-		App
+import {Users} from "./components";
 
-		</div>
-	);
+function App() {
+    return (
+        <div>
+            <Users/>
+        </div>
+    );
 }
+
+export default App;
