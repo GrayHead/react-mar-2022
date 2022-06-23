@@ -1,8 +1,11 @@
-export  function App() {
+import {Rockets} from "./components/rockets/Rockets";
+
+function App() {
 	return (
 		<div>
-		App
-
+			<Rockets/>
 		</div>
 	);
 }
+
+export default App;
