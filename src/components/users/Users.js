@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react";
 
 import {User} from "../user/User";
-import {UserDetails} from "../userDetails/userDetails";
+import {UserDetails} from "../userDetails/UserDetails";
 
 function Users() {
 

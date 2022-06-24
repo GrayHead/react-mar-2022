@@ -1,3 +1,3 @@
 export * from './user/User';
 export * from './users/Users';
-export * from './userDetails/userDetails';
+export * from './userDetails/UserDetails';
