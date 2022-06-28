@@ -1,0 +1,13 @@
+.df {
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    background: silver;
+}
+
+.right {
+    width: 50%;
+
+}
