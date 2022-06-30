@@ -1,8 +1,12 @@
-export  function App() {
-	return (
-		<div>
-		App
+import {Comments, Users} from "./components";
+import './App.css'
 
-		</div>
-	);
+export default function App() {
+    return (
+        <div className={'form'}>
+            <Users/>
+            <Comments/>
+
+        </div>
+    );
 }
