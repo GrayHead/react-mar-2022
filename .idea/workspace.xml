@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ecc92bc-18dc-471e-8906-6b9fb937530b" name="Changes" comment="lesson 4 forms">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostDetailsComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostsComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AboutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LayoutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PostDetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PostsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/react-mar-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-mar-2022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "JavaScript.Libraries"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
