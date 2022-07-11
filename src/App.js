@@ -1,8 +1,20 @@
-export default  function App() {
-	return (
-		<div>
-		App
+import React, {Component} from 'react';
+import Users from "./components/Users";
 
-		</div>
-	);
+class App extends Component {
+
+
+    render() {
+        return (<div>
+
+            <Users/>
+        </div>);
+    }
+
+
 }
+
+export default App;
+
+
+
